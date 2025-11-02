@@ -1,2 +1,1 @@
-[This is the overleaf link]{https://www.overleaf.com/read/wmcgrzsqtcqr#67aff0
-}
+[Click for SRS Notes](https://www.overleaf.com/read/wmcgrzsqtcqr#67aff0)
